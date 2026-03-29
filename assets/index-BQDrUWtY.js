@@ -69641,7 +69641,7 @@ function xV() {
                           zIndex: 2,
                           position: "relative",
                         },
-                        children: "Est. 2008. Tokenized 2025.",
+                        children: "Est. 2008. Tokenized 2026.",
                       }),
                     ],
                   }),
