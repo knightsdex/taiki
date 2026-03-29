@@ -67484,7 +67484,7 @@ But Taiki was never given a token. Until now.`,
                           children: [
                             U.jsx(be.a, {
                               className: "hero-title-btn",
-                              href: "https://app.uniswap.org/#/swap?outputCurrency=0x751c7d3d8f8f8e5b5f3c5b7c7c2a0a1a5a7a5a7a",
+                              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               whileHover: { scale: 1.08 },
@@ -68147,7 +68147,7 @@ But Taiki was never given a token. Until now.`,
                           children: [
                             U.jsx(be.a, {
                               className: "hero-title-btn",
-                              href: "https://app.uniswap.org/#/swap?outputCurrency=0x751c7d3d8f8f8e5b5f3c5b7c7c2a0a1a5a7a5a7a",
+                              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               whileHover: { scale: 1.08 },
@@ -68503,7 +68503,7 @@ function mV() {
               ],
             }),
             U.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?outputCurrency=0x751c7d3d8f8f8e5b5f3c5b7c7c2a0a1a5a7a5a7a",
+              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
               target: "_blank",
               rel: "noopener noreferrer",
               className: "navbar-buy",
@@ -68541,7 +68541,7 @@ function mV() {
               children: "Community",
             }),
             U.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?outputCurrency=0x751c7d3d8f8f8e5b5f3c5b7c7c2a0a1a5a7a5a7a",
+              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
               target: "_blank",
               rel: "noopener noreferrer",
               className: "navbar-buy",
@@ -72278,7 +72278,7 @@ function TV() {
                     className: "community-footer-links",
                     children: [
                       U.jsxs("a", {
-                        href: "https://app.uniswap.org/#/swap?outputCurrency=0x751c7d3d8f8f8e5b5f3c5b7c7c2a0a1a5a7a5a7a",
+                        href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: [
