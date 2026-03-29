@@ -69145,7 +69145,7 @@ function gV() {
                   marginBottom: "0.1vw",
                   letterSpacing: "1px",
                 },
-                children: "1T",
+                children: "1B",
               }),
               U.jsx(be.div, {
                 initial: { opacity: 0, filter: "blur(8px)" },
