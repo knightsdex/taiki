@@ -69981,7 +69981,7 @@ const AV = [
         ],
       }),
       title: "Total Supply",
-      value: "1,000,000,000,000 $TAIKI",
+      value: "1,000,000,000 $TAIKI",
     },
     {
       icon: U.jsx("svg", {
