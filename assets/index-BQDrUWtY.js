@@ -70018,7 +70018,7 @@ const AV = [
         ],
       }),
       title: "Liquidity",
-      value: "LP Tokens Burned",
+      value: "LP Tokens Locked",
     },
     {
       icon: U.jsxs("svg", {
