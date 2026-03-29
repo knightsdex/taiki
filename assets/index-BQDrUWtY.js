@@ -67484,7 +67484,7 @@ But Taiki was never given a token. Until now.`,
                           children: [
                             U.jsx(be.a, {
                               className: "hero-title-btn",
-                              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
+                              href: "https://app.uniswap.org/#/swap?outputCurrency=0xeacbc5072b6aba1971ab2753636399b906106067",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               whileHover: { scale: 1.08 },
@@ -68147,7 +68147,7 @@ But Taiki was never given a token. Until now.`,
                           children: [
                             U.jsx(be.a, {
                               className: "hero-title-btn",
-                              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
+                              href: "https://app.uniswap.org/#/swap?outputCurrency=0xeacbc5072b6aba1971ab2753636399b906106067",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               whileHover: { scale: 1.08 },
@@ -68503,7 +68503,7 @@ function mV() {
               ],
             }),
             U.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
+              href: "https://app.uniswap.org/#/swap?outputCurrency=0xeacbc5072b6aba1971ab2753636399b906106067",
               target: "_blank",
               rel: "noopener noreferrer",
               className: "navbar-buy",
@@ -68541,7 +68541,7 @@ function mV() {
               children: "Community",
             }),
             U.jsx("a", {
-              href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
+              href: "https://app.uniswap.org/#/swap?outputCurrency=0xeacbc5072b6aba1971ab2753636399b906106067",
               target: "_blank",
               rel: "noopener noreferrer",
               className: "navbar-buy",
@@ -70068,7 +70068,7 @@ const AV = [
       value: "Vitalik.eth was gifted 1.8% of token supply.",
     },
   ],
-  cA = "0xComingSoon";
+  cA = "0xeacbc5072b6aba1971ab2753636399b906106067";
 function bV() {
   return U.jsxs("section", {
     id: "tokenomics",
@@ -70553,7 +70553,7 @@ function SV({ value: i }) {
     ],
   });
 }
-const uA = "0xComingSoon",
+const uA = "0xeacbc5072b6aba1971ab2753636399b906106067",
   MV = [
     {
       icon: U.jsxs("svg", {
@@ -71247,7 +71247,7 @@ function EV() {
       }),
       U.jsxs("a", {
         className: "howtobuy-uniswap-btn",
-        href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
+        href: "https://app.uniswap.org/#/swap?outputCurrency=0xeacbc5072b6aba1971ab2753636399b906106067",
         target: "_blank",
         rel: "noopener noreferrer",
         children: [
@@ -71275,7 +71275,7 @@ function EV() {
         className: "howtobuy-deximg-row",
         children: [
           U.jsx(be.a, {
-            href: "https://www.dextools.io/app/en/ether/pair-explorer/0xDEXComingSoon",
+            href: "https://www.dextools.io/app/en/ether/pair-explorer/0x0c78109945d1b0b0a9f7dfd345d3fc3847e6d6a5",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "howtobuy-deximg-link dex",
@@ -71291,7 +71291,7 @@ function EV() {
             }),
           }),
           U.jsx(be.a, {
-            href: "https://dexscreener.com/ethereum/0xComingSoon",
+            href: "https://dexscreener.com/ethereum/0xeacbc5072b6aba1971ab2753636399b906106067",
             target: "_blank",
             rel: "noopener noreferrer",
             className: "howtobuy-deximg-link screener",
@@ -72278,7 +72278,7 @@ function TV() {
                     className: "community-footer-links",
                     children: [
                       U.jsxs("a", {
-                        href: "https://app.uniswap.org/#/swap?outputCurrency=0xComingSoon",
+                        href: "https://app.uniswap.org/#/swap?outputCurrency=0xeacbc5072b6aba1971ab2753636399b906106067",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: [
@@ -72290,7 +72290,7 @@ function TV() {
                         ],
                       }),
                       U.jsxs("a", {
-                        href: "https://etherscan.io/address/0xComingSoon",
+                        href: "https://etherscan.io/address/0xeacbc5072b6aba1971ab2753636399b906106067",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: [
